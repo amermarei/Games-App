@@ -1,3 +1,19 @@
+# GameOver App 
+Games app showing games platforms and categories and their Details 
+
+## Api Used 
+### https://rapidapi.com/digiwalls/api/free-to-play-games-database
+
+## Featutes :
+- Authentication (Login - logout - Register)
+- SPA 
+
+## Tech Used :
+- HTML5
+- CSS3
+- Bootstrap
+- React js (routing - axios - Redux Toolkit )
+- jwt decode 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
